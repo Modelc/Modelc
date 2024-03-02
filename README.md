@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinaza Mbonu</h1>
-<h3 align="center">A versatile developer skilled in frontend design, mobile apps, and blockchain technology.</h3>
-
-- 🔭 I’m currently working on **Versatile AI Companion Website**
+<h3 align="center">A software developer skilled in frontend design, mobile apps, and blockchain technology.</h3>
 
 - 🌱 I’m currently learning **Network security and penetration testing with Kali Linux.**
 
